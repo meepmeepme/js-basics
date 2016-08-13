@@ -1,12 +1,12 @@
 /* Create a `myName` variable and assign it a String value */
 
-/* Create a `person` variable and give it 2 properties,
+/* Create a `person` variable, asign an object and give it 2 properties,
  * `name`, assign it the same name as before,
- * as well as an `age` (number);
+ *  as well as an `age` (number);
  */
 
-/* Create a variable called `canDrive`,
- * if it should be true if your person object is at least 16 years old
+/* Create a variable called `canDrive`, and asign it a boolean
+ * it should be true if your person object is at least 16 years old
  */
 
 /* Create a function called `greet`,
